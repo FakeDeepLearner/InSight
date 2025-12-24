@@ -1,6 +1,6 @@
 /tmp
 /out-tsc
-.idea/
+.idea
 .DS_Store
 
 /node_modules
